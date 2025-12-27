@@ -74,8 +74,3 @@ Run this file as **TestNG Test**:
 ## Notes
 - If you encounter issues related to Java compatibility, please verify Eclipse is running and compiling with **JDK 21.0.1**.
 - The UI automation ZIP package includes dependencies (`lib`) to simplify setup.
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
