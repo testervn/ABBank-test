@@ -31,8 +31,6 @@ The UI automation project is provided as a **ZIP** file which already includes:
      - If the project already exists in workspace, just open it.
      - Otherwise: `File` → `Import` → `Existing Projects into Workspace`
 
-### A short video demonstrating the test execution: https://youtu.be/a_rexC8eHRg?si=dLx-uR7V4EnZQIS6
-[![Video Title](https://i9.ytimg.com/vi/a_rexC8eHRg/mqdefault.jpg?sqp=COz3wMoG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGE8gXChlMA8%3D&rs=AOn4CLA9qVApl1rsZmSXVO_cfQ_wdzLUQA&retry=5)](https://www.youtube.com/watch?v=a_rexC8eHRg)
 ---
 
 ## 2) How to Run UI Tests (Selenium + TestNG)
@@ -50,6 +48,8 @@ Run this file as **TestNG Test**:
 2. Right-click the file → **Run As** → **TestNG Test**
 3. TestNG will execute the test flow and show results in the Eclipse console/TestNG view.
 
+### A short video demonstrating the test execution: https://youtu.be/a_rexC8eHRg?si=dLx-uR7V4EnZQIS6
+[![Video Title](https://i9.ytimg.com/vi/a_rexC8eHRg/mqdefault.jpg?sqp=COz3wMoG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGE8gXChlMA8%3D&rs=AOn4CLA9qVApl1rsZmSXVO_cfQ_wdzLUQA&retry=5)](https://www.youtube.com/watch?v=a_rexC8eHRg)
 ---
 
 ## 3) How to Run API Tests (JMeter)
