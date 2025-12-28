@@ -1,4 +1,4 @@
-# ABBank Automation Tests (UI + API)
+# Automation Tests (UI + API)
 
 This repository contains:
 - **UI automation tests** using **Selenium WebDriver + TestNG** (Java)
